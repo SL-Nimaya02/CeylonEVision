@@ -1,0 +1,90 @@
+Station_ID,Name,Network,Phone,Town,Latitude,Longitude,Usage_Type,Price_Details,Equipment_Spec,Power_KW,Port_Count,Operational_Status
+474960-0,EVO Charge Mirigama ,(Unknown Operator),0718187989,Mirigama ,7.217190119415733,80.1129166277874,Public - Membership Required,75.00 LKR/kWh,Unknown,60.0,2,Operational
+472593-0,EVO EV Charing Station - Matara,(Unknown Operator),0768766088,Matara,5.944479570429479,80.55141741530588,Public,Rs 100 per KW,CHAdeMO,40.0,2,Operational
+472593-1,EVO EV Charing Station - Matara,(Unknown Operator),0768766088,Matara,5.944479570429479,80.55141741530588,Public,Rs 100 per KW,Type 2 (Socket Only),22.0,1,Operational
+472593-2,EVO EV Charing Station - Matara,(Unknown Operator),0768766088,Matara,5.944479570429479,80.55141741530588,Public,Rs 100 per KW,Type 1 (J1772),22.0,1,Operational
+469432-0,Sakalya Lake View,(Unknown Operator),0773481988,Tissamaharama,6.289627510534132,81.27550361151134,Public - Pay At Location,75.00 LKR/kWh,Type 2 (Socket Only),7.0,1,Operational
+469432-1,Sakalya Lake View,(Unknown Operator),0773481988,Tissamaharama,6.289627510534132,81.27550361151134,Public - Pay At Location,75.00 LKR/kWh,CHAdeMO,7.0,1,Operational
+469432-2,Sakalya Lake View,(Unknown Operator),0773481988,Tissamaharama,6.289627510534132,81.27550361151134,Public - Pay At Location,75.00 LKR/kWh,Type 1 (J1772),7.0,1,Operational
+469431-0,Sakalya Lake View,(Unknown Operator),0472239021,Tissamaharama,6.2893443996299965,81.27585759960607,Public - Pay At Location,75.00 LKR/kWh,Type 2 (Socket Only),7.0,1,Operational
+469431-1,Sakalya Lake View,(Unknown Operator),0472239021,Tissamaharama,6.2893443996299965,81.27585759960607,Public - Pay At Location,75.00 LKR/kWh,CHAdeMO,7.0,1,Operational
+469431-2,Sakalya Lake View,(Unknown Operator),0472239021,Tissamaharama,6.2893443996299965,81.27585759960607,Public - Pay At Location,75.00 LKR/kWh,Type 1 (J1772),7.0,1,Operational
+460586-0,Sooriya Wessagiri Resort ,(Unknown Operator),,Anuradhapura ,8.32431510662309,80.3851166220361,Public,100,Type 2 (Socket Only),22.0,1,Operational
+460066-0,Keells,Volta Charging,,Puttalam,8.028023445356112,79.83711927207196,Public,142,CHAdeMO,30.0,1,Operational
+266281-0,Modern Technology Lanka,chargeNET (lk),0771480884,Galle,6.069315662243753,80.23406323762545,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264394-0,Galle EV Point ,EV Point Moldova,0767604103 ,Galle,6.051663709744403,80.25802011710846,Public - Membership Required,30 LKR per minute,CHAdeMO,50.0,1,Operational
+264392-0,Ceylon Electricity Board - Avissawella,chargeNET (lk),0717219775,Avissawella,6.94758866739781,80.21436823239577,Public - Membership Required,Day : 83.08 LKR/kWh | Peak : 107.70 LKR/kWh | Off Peak : 51.29 LKR/kWh ,CHAdeMO,50.0,1,Operational
+264391-0,Ceylon Electricity Board - Nuwara Eliya,chargeNET (lk),0522 222 343, Nuwara Eliya,6.96580130041778,80.77193220574014,Public - Membership Required,Day : 83.08 LKR/kWh | Peak : 107.70 LKR/kWh | Off Peak : 51.29 LKR/kWh ,CHAdeMO,50.0,1,Operational
+264389-0,Ceylon Electricity Board - Kandy,chargeNET (lk),0717219775 ,Kandy,7.294207787655225,80.63379397673481,Public - Membership Required,Day : 83.08 LKR/kWh | Peak : 107.70 LKR/kWh | Off Peak : 51.29 LKR/kWh ,CHAdeMO,50.0,1,Operational
+264388-0,Ceylon Electricity Board - Dambulla,chargeNET (lk),0717219775,Dambulla,7.869633540843466,80.64822474274945,Public - Membership Required,Day : 83.08 LKR/kWh | Peak : 107.70 LKR/kWh | Off Peak : 51.29 LKR/kWh ,CHAdeMO,50.0,1,Operational
+264387-0,Ceylon Electricity Board - Anuradhapura,chargeNET (lk),0717219775,Anuradhapura,8.329664541564298,80.40635525555717,Public - Membership Required,Day : 83.08 LKR/kWh | Peak : 107.70 LKR/kWh | Off Peak : 51.29 LKR/kWh ,CHAdeMO,50.0,1,Operational
+264386-0,Ceylon Electricity Board - Pannipitiya,chargeNET (lk),0717219775 ,Colombo,6.844901395269417,79.94073377775248,Public - Membership Required,Day : 83.08 LKR/kWh | Peak : 107.70 LKR/kWh | Off Peak : 51.29 LKR/kWh ,CHAdeMO,50.0,1,Operational
+264385-0,Ceylon Electricity Board - Dehiwala,chargeNET (lk),0717219775 ,Colombo,6.862169228518255,79.86512609215788,Public - Membership Required,Day : 83.08 LKR/kWh | Peak : 107.70 LKR/kWh | Off Peak : 51.29 LKR/kWh ,CHAdeMO,50.0,1,Operational
+264384-0,MJ.COM Service L2 Charger,chargeNET (lk),0772267135,Kandy,7.279591860559506,80.67698021255649,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264383-0,Broad Auto Hybrid Service,chargeNET (lk),0727453572,Katugastota,7.324777326878163,80.64447343159065,Public - Membership Required,120LKR/kWh,CHAdeMO,24.0,1,Operational
+264382-0,ChargeNET - Kandy (Upali),chargeNET (lk),0727453572,Kandy,7.314339373845542,80.63905616427053,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264381-0,Cinnamon Citadel,chargeNET (lk),0812234365,Kandy,7.305863827786368,80.62442057438363,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264380-0,SIGNEX - Kiribathkubura,chargeNET (lk),0718705960,Peradeniya,7.268413883518775,80.5807821943767,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264379-0,Bupasha Holiday Bungalow,chargeNET (lk),0727453572,Nawalapitiya,7.051427816828067,80.5133520696424,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264378-0,Jayasiri Windscreen House,chargeNET (lk),0727453572,Mawanella,7.247725472216552,80.46596397024831,Public - Membership Required,120LKR/kWh,CHAdeMO,24.0,1,Operational
+264377-0,Kandylines Equipment Catering Service,chargeNET (lk),0354354050,Kegalle,7.248294424699523,80.34108477186231,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264376-0,Currymuch Hotel and Restaurant,chargeNET (lk),0770555553,Nelundeniya,7.237250713105548,80.27218015256545,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+264376-1,Currymuch Hotel and Restaurant,chargeNET (lk),0770555553,Nelundeniya,7.237250713105548,80.27218015256545,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264375-0,Wedamadura Medicare Charging Station,chargeNET (lk),0714976692,Narammala,7.433628737842412,80.21199903799015,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+264375-1,Wedamadura Medicare Charging Station,chargeNET (lk),0714976692,Narammala,7.433628737842412,80.21199903799015,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264374-0,Technokaru - Dambulla,chargeNET (lk),0773040370,Dambulla,7.777798216134769,80.66114760765367,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264373-0,Wood House Karuwalagaswewa,chargeNET (lk),0772920991,Karuwalagaswewa,8.174626539579904,80.0794668998069,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264372-0,Habarana Village by Cinnamon,chargeNET (lk),0662270047,Habarana,8.037399720106592,80.75116387661092,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264372-1,Habarana Village by Cinnamon,chargeNET (lk),0662270047,Habarana,8.037399720106592,80.75116387661092,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264371-0,SLNP Filling Station,chargeNET (lk),,Trincomalee,8.62833162137889,81.20549849379847,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264370-0,Trinco Blu by Cinnamon,chargeNET (lk),0262222307,Trincomalee,8.61783208279516,81.21750232354225,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264369-0,Riviera Resort,chargeNET (lk),0654929165,Batticaloa,7.720057248004565,81.71012738138006,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+264368-0,EVTopUpPoint - Wellawaya,chargeNET (lk),0777909498,Wellawaya,6.719210786124748,81.1045585974004,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263927-0,Cinnamon Wild - Yala,chargeNET (lk),0112306600,Tissamaharama,6.259201529568315,81.40469450276896,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263926-0,MEV Matara EV Charging Station,chargeNET (lk),0710168151,Matara,5.955080690490959,80.52422555059604,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263926-1,MEV Matara EV Charging Station,chargeNET (lk),0710168151,Matara,5.955080690490959,80.52422555059604,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263925-0,EV Matara Malimbda Station,chargeNET (lk),0743644257,Matara,6.0059245439870494,80.51823671437705,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263925-1,EV Matara Malimbda Station,chargeNET (lk),0743644257,Matara,6.0059245439870494,80.51823671437705,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263924-0,Hikka Tranz by Cinnamon,chargeNET (lk),0912277188,Hikkaduwa,6.131581484226828,80.10110874347635,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263923-0,Canowin Arcade Welipenna - Northbound Rest Stop,chargeNET (lk),0703727242,Welipenna,6.469595097031586,80.07680434600206,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263923-1,Canowin Arcade Welipenna - Northbound Rest Stop,chargeNET (lk),0703727242,Welipenna,6.469595097031586,80.07680434600206,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263922-0,Canowin Arcade Welipenna - Southbound Rest Stop,chargeNET (lk),,Welipenna,6.468380656163859,80.07944217756074,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263922-1,Canowin Arcade Welipenna - Southbound Rest Stop,chargeNET (lk),,Welipenna,6.468380656163859,80.07944217756074,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263921-0, US Power-Dharga Town,chargeNET (lk),0777300688,Beruwala,6.452956842986239,80.00526029895468,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263920-0,Cinnamon Bey Beruwala,chargeNET (lk),0342297000,Beruwala,6.4530212111372975,79.9790263949219,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263919-0,Fonseka Charging Station,chargeNET (lk),0778967331,Payagala,6.52772782151942,79.97907414835322,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263918-0,Citrus Waskaduwa,chargeNET (lk),0347634634,Kalutara,6.625280118774469,79.94220264688329,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263918-1,Citrus Waskaduwa,chargeNET (lk),0347634634,Kalutara,6.625280118774469,79.94220264688329,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263912-0,Ellakkala EV Charging Station,chargeNET (lk),0727453572,Pasyala,7.146629046778031,80.13148863061156,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263912-1,Ellakkala EV Charging Station,chargeNET (lk),0727453572,Pasyala,7.146629046778031,80.13148863061156,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263911-0,Veyangoda L2 Charger,chargeNET (lk),0773879037,Veyangoda,7.1609379894247525,80.01351561891147,Public - Membership Required,80LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263910-0,NKR Minuwangoda,chargeNET (lk),0779442113,Minuwangoda,7.17872168795553,79.97274210568054,Public - Membership Required,120LKR/kWh,CHAdeMO,24.0,1,Operational
+263909-0,Kurana Negambo Station,chargeNET (lk),0775352759,Negombo,7.186820402351884,79.8595374136496,Public - Membership Required,120LKR/kWh,CHAdeMO,24.0,1,Operational
+263908-0,K-Zone Ja-Ela,chargeNET (lk),0770 555 553,Ja-Ela,7.059902306807743,79.89651359412966,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263908-1,K-Zone Ja-Ela,chargeNET (lk),0770 555 553,Ja-Ela,7.059902306807743,79.89651359412966,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263907-0,Saninro Hotel ,chargeNET (lk),0337 634000,Ragama,7.0299667576491345,79.9230018259932,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263907-1,Saninro Hotel ,chargeNET (lk),0337 634000,Ragama,7.0299667576491345,79.9230018259932,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263906-0, Strogella Restaurant - Kadawatha,chargeNET (lk),0773979214,Gampaha,7.0063892185992955,79.95438805681437,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263906-1, Strogella Restaurant - Kadawatha,chargeNET (lk),0773979214,Gampaha,7.0063892185992955,79.95438805681437,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263906-2, Strogella Restaurant - Kadawatha,chargeNET (lk),0773979214,Gampaha,7.0063892185992955,79.95438805681437,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263905-0,IOC - Wattala,chargeNET (lk),0770555553,Colombo,6.988686263367967,79.89691008982857,Public - Membership Required,120LKR/kWh,CHAdeMO,24.0,1,Operational
+263903-0,K-Zone Moratuwa,chargeNET (lk),0770 555 553,Colombo,6.7951702843362085,79.88741411256888,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263903-1,K-Zone Moratuwa,chargeNET (lk),0770 555 553,Colombo,6.7951702843362085,79.88741411256888,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263901-0,"SLINTEC, Nanotechnology & Science Park",chargeNET (lk),0773671399,Colombo,6.825838412683282,80.03806658834674,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263901-1,"SLINTEC, Nanotechnology & Science Park",chargeNET (lk),0773671399,Colombo,6.825838412683282,80.03806658834674,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263899-0,KINRO EV EV Chargers,chargeNET (lk),0774448232,Colombo,6.838690843368482,79.97887778602808,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263899-1,KINRO EV EV Chargers,chargeNET (lk),0774448232,Colombo,6.838690843368482,79.97887778602808,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263898-0,Madawala Enterprises (Pvt) Ltd,chargeNET (lk),0773864864,Colombo,6.844936035511466,79.94046165233817,Public - Membership Required,80LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263896-0,Shanthi Plastic,chargeNET (lk),0759400017,Colombo,6.842561905890761,79.88459230718775,Public - Membership Required,70LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263894-0,IOC - Battaramulla,chargeNET (lk),0115 551 551,Colombo,6.908449367066481,79.93924937860436,Public - Membership Required,120LKR/kWh,CHAdeMO,24.0,1,Operational
+263892-0, Vortex Energy,chargeNET (lk),0704101258,Colombo,6.870944621124039,79.86528065326968,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263892-1, Vortex Energy,chargeNET (lk),0704101258,Colombo,6.870944621124039,79.86528065326968,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263891-0, IOC - Horton Place,chargeNET (lk),0770555553,Colombo,6.911454013388436,79.86512193162997,Public - Membership Required,120LKR/kWh,CHAdeMO,24.0,1,Operational
+263890-0,Ocean Combine (Pvt) Ltd,chargeNET (lk),0702233000,Colombo,6.9336251671984,79.87915704175572,Public - Membership Required,120LKR/kWh,CHAdeMO,18.0,1,Operational
+263889-0,"TRACE Expert City, Maradana Road, Colombo 10",chargeNET (lk),0115 551 551,Colombo,6.92936077371219,79.86104428955178,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,2,Operational
+263889-1,"TRACE Expert City, Maradana Road, Colombo 10",chargeNET (lk),0115 551 551,Colombo,6.92936077371219,79.86104428955178,Public - Membership Required,75.00 LKR/kWh,Type 2 (Socket Only),6.6,1,Operational
+263889-2,"TRACE Expert City, Maradana Road, Colombo 10",chargeNET (lk),0115 551 551,Colombo,6.92936077371219,79.86104428955178,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,2,Operational
+263888-0,Colombo City Centre,chargeNET (lk),0770555553,Colombo,6.917504142811708,79.85579917847951,Public - Membership Required,75.00 LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263888-1,Colombo City Centre,chargeNET (lk),0770555553,Colombo,6.917504142811708,79.85579917847951,Public - Membership Required,75.00 LKR/kWh,CHAdeMO,24.0,1,Operational
+263887-0,Araliya Carpark,chargeNET (lk),0112152179,Colombo,6.916571267723441,79.84931981544912,Public - Membership Required,80LKR/kWh,Type 1 (J1772),6.6,1,Operational
+263886-0,Fairway Colombo,chargeNET (lk),0702440521,Colombo,6.9337401023704075,79.84410506852555,Public,80LKR/kWh,Type 1 (J1772),6.6,1,Operational
