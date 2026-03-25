@@ -1,8 +1,0 @@
-flask
-flask-cors
-pandas
-numpy
-stable-baselines3
-shimmy
-geopy
-requests
